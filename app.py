@@ -14,20 +14,11 @@ st.set_page_config(page_title="Multi-Agent Coding Assistant", page_icon="🤖", 
 
 # 🎓 Course & Member Information Header
 with st.container(border=True):
-    col1, col2 = st.columns([1, 1])
-    with col1:
-        st.markdown("### 🎓 **Agentic AI Project**")
-        st.markdown(
-            "**Class ID:** 120055  \n"
-            "**Instructor:** Dr. Farhan Mohsin"
-        )
-    with col2:
-        st.markdown("### 👥 **Group Members**")
-        st.markdown(
-            "- **Shayan Akram** (ID: 14958)  \n"
-            "- **Muhammad Ayan Husain** (ID: 13905)  \n"
-            "- **Syed Muhammad Faseh** (ID: 14908)"
-        )
+    st.markdown("### 🎓 **Agentic AI Project**")
+    st.markdown(
+        "**Developer:** Shayan Akram (ID: 14958)  \n"
+        "**Class ID:** 120055"
+    )
 
 st.title("🤖 Multi-Agent Coding Assistant")
 st.markdown("Supports **Multi-language**, **Planning**, **Auto-deps**, **Research**, **Security Review**, and **Docs Generation**.")
