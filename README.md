@@ -6,6 +6,14 @@ Designed and developed by **Shayan Akram**.
 
 ---
 
+## 🖥️ User Interface Preview
+
+Here is a preview of the web application built using Streamlit:
+
+![Streamlit Web Application UI](screenshots/streamlit_ui.png)
+
+---
+
 ## 🌟 Key Features
 
 - **📝 Architecture Planning**: The assistant maps out complex file structures and execution steps before writing any code.
