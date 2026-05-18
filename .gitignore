@@ -1,0 +1,8 @@
+.env
+__pycache__/
+history/
+workspace/
+AgenticAI_Proposal.docx
+AgenticAI_Proposal.pdf
+*.pyc
+.antigravityignore

@@ -1,0 +1,6 @@
+requests
+aiohttp
+python-dotenv
+rich
+streamlit
+duckduckgo-search
